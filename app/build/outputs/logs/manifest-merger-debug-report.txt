@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+	package
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:4:2-48:16
+	android:label
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:7:3-35
+	android:icon
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:6:3-36
+	android:allowBackup
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:5:3-29
+	android:theme
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:9:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:8:3-38
+activity#com.app.icarius.MainActivity
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:11:3-22:14
+	android:screenOrientation
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:17:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:14:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:15:4-43
+	android:configChanges
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:13:4-97
+	android:theme
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:16:4-38
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:12:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:18:4-21:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:19:5-57
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:19:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:20:15-62
+activity#com.app.icarius.SignupActivity
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:24:3-30:43
+	android:screenOrientation
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:30:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:27:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:28:4-43
+	android:configChanges
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:26:4-97
+	android:theme
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:29:4-38
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:25:4-34
+activity#com.app.icarius.DashboardActivity
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:32:3-38:43
+	android:screenOrientation
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:38:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:35:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:36:4-43
+	android:configChanges
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:34:4-97
+	android:theme
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:37:4-38
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:33:4-37
+activity#com.app.icarius.DebugActivity
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:40:3-42:43
+	android:screenOrientation
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:42:4-40
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:41:4-33
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:44:3-46:31
+	android:required
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:46:4-28
+	android:name
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:45:4-41
+uses-sdk
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml

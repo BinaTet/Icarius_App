@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.icarius"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:4:2-48:16
+12        android:allowBackup="true"
+12-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:5:3-29
+13        android:debuggable="true"
+14        android:icon="@drawable/app_icon"
+14-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:6:3-36
+15        android:label="@string/app_name"
+15-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:7:3-35
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme"
+17-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:9:3-34
+18        android:usesCleartextTraffic="true" >
+18-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:8:3-38
+19        <activity
+19-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:11:3-22:14
+20            android:name="com.app.icarius.MainActivity"
+20-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:12:4-32
+21            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+21-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:13:4-97
+22            android:hardwareAccelerated="true"
+22-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:14:4-38
+23            android:screenOrientation="portrait"
+23-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:17:4-40
+24            android:supportsPictureInPicture="true"
+24-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:15:4-43
+25            android:theme="@style/NoActionBar" >
+25-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:16:4-38
+26            <intent-filter>
+26-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:18:4-21:20
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:19:5-57
+27-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:19:13-54
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:20:5-65
+29-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:20:15-62
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:24:3-30:43
+33            android:name="com.app.icarius.SignupActivity"
+33-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:25:4-34
+34            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+34-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:26:4-97
+35            android:hardwareAccelerated="true"
+35-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:27:4-38
+36            android:screenOrientation="portrait"
+36-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:30:4-40
+37            android:supportsPictureInPicture="true"
+37-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:28:4-43
+38            android:theme="@style/NoActionBar" />
+38-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:29:4-38
+39        <activity
+39-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:32:3-38:43
+40            android:name="com.app.icarius.DashboardActivity"
+40-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:33:4-37
+41            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+41-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:34:4-97
+42            android:hardwareAccelerated="true"
+42-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:35:4-38
+43            android:screenOrientation="portrait"
+43-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:38:4-40
+44            android:supportsPictureInPicture="true"
+44-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:36:4-43
+45            android:theme="@style/NoActionBar" />
+45-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:37:4-38
+46        <activity
+46-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:40:3-42:43
+47            android:name="com.app.icarius.DebugActivity"
+47-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:41:4-33
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:42:4-40
+49
+50        <uses-library
+50-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:44:3-46:31
+51            android:name="org.apache.http.legacy"
+51-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:45:4-41
+52            android:required="false" />
+52-->C:\Users\Dart Tech\Downloads\Icarius\app\src\main\AndroidManifest.xml:46:4-28
+53    </application>
+54
+55</manifest>
